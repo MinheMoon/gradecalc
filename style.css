@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    margin: 10px;
+}
+
+input{
+    background-color: rgb(199, 209, 209);
+    font-weight: bold;
+    width: 10%;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+}
