@@ -18,3 +18,6 @@ function showAverage() {
         document.getElementById('result').value = average.toFixed(2);
     }
 }
+
+
+// це такто 2 коміт.... або третій.... не знаю ._.
