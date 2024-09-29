@@ -6,8 +6,15 @@ body{
 input{
     background-color: rgb(199, 209, 209);
     font-weight: bold;
-    width: 10%;
+    width: 14%;
     border-radius: 10px;
     text-align: center;
     font-weight: bold;
+}
+
+button{
+    padding: 8px;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 16px;
 }
